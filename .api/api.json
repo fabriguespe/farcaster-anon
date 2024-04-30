@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "neynar",
+      "source": "@neynar/v2.0#1gt2svlvjspxes",
+      "integrity": "sha512-PaSJ7oHAMqPXOxEyMEit9GfxpQq7axKW3k8aYb6knAmfUEw4Mw+sBXQT7aydOx/fFHXDf/FFrkpCGBPVG/eFnQ==",
+      "installerVersion": "6.1.1"
+    }
+  ]
+}

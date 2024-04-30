@@ -1,0 +1,20 @@
+{
+  "name": "gm-bot",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc -w",
+    "start:watch": "nodemon dist/src/index.js",
+    "start": "node dist/src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "@standard-crypto/farcaster-js": "^7.3.1",
+    "@xmtp/botkit": "latest",
+    "axios": "^1.6.8",
+    "openai": "^4.39.0"
+  }
+}
