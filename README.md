@@ -2,19 +2,6 @@
 
 Farcaster bot
 
-## Usage
-
-```jsx
-import "dotenv/config";
-import { xmtpClient, run, HandlerContext } from "@xmtp/botkit";
-
-run(async (context: HandlerContext) => {
-  const { content, senderAddress } = context.message;
-
-  await context.reply(`gm`);
-});
-```
-
 ## Running the bot
 
 > ⚠️ Bot kit is not compatible with `bun`. Use `npm` or `yarn`
