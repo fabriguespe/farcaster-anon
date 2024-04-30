@@ -1,6 +1,6 @@
-# Gm Bot
+# Farcaster Bot
 
-Simple Gm bot
+Farcaster bot
 
 ## Usage
 
